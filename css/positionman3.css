@@ -1,80 +1,80 @@
-@media(max-width : 1100px)
+@media(max-width: 1300px)
 {
-    .qr-code
+  
+    #qr-code
     {
         display: none;
     }
-    #qr-code
-    {
-        display: black;
-    }
+    
     .container4
     {
-        display: inline-block;
-        background-color: 	 #668cff;
+        background-color: #668cff;
         color: black;
+        width: 50%;
     }
     #man3
     {
         display: block;
-        max-width:45%;
-        margin: 15%;
+        max-width:50%;
+        margin: 25%;
         height: 100%;
     }
     #Rewardsz
     {
         position: absolute;
-        top: 1000px;
-        left: 30px;
+        top: 400px;
+        left: 700px;
 
     }
     #Savingsz
     {
         position: absolute;
-        top: 950px;
-        left: 30px;
+        top: 300px;
+        left: 650px;
     }
     #Investmentsz
     {
         position: absolute;
-        top: 900px;
-        left: 45px;
+        top: 200px;
+        left: 650px;
     }
     #Forexz
     {
         position: absolute;
-        top: 800px;
-        left: 75px;
+        top: 100px;
+        left: 700px;
     }
     #Analyticsz
     {
         position: absolute;
-        top: 750px;
-        left: 150px; 
+        top: 80px;
+        left: 800px; 
    }
    #cardsz
    {
        position: absolute;
-       top:  700px;
-       left: 300px;
+       top:  80px;
+       left: 900px;
    }
 
    #Paymentsz
    {
        position: absolute;
-       top:  800px;
-       left: 450px;
+       top:  120px;
+       left: 1050px;
    }
    #Loanz
    {
        position: absolute;
-       top: 900px;
-       left: 470px;
+       top: 200px;
+       left: 1100px;
    }
    #Supportz
    {
        position: absolute;
-       top: 1000px;
-       left: 480px;
+       top: 300px;
+       left: 1100px;
    }
+
+  
 }

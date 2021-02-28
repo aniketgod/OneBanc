@@ -78,6 +78,88 @@
        left: 480px;
    }
 }
+/**********/
+@media(max-width : 720px)
+{
+    .qr-code
+    {
+        display: none;
+    }
+    #qr-code
+    {
+        display: black;
+    }
+    .container4
+    {
+        display: inline-block;
+        background-color: 	 #668cff;
+        color: black;
+    }
+    #man3
+    {
+        display: block;
+        max-width:45%;
+        margin: 15%;
+        height: 100%;
+    }
+    #Rewardsz
+    {
+        position: absolute;
+        top: 950px;
+        left: 45px;
+
+    }
+    #Savingsz
+    {
+        position: absolute;
+        top: 875px;
+        left: 40px;
+    }
+    #Investmentsz
+    {
+        position: absolute;
+        top: 800px;
+        left: 40px;
+    }
+    #Forexz
+    {
+        position: absolute;
+        top: 700px;
+        left: 80px;
+    }
+    #Analyticsz
+    {
+        position: absolute;
+        top: 650px;
+        left: 200px; 
+   }
+   #cardsz
+   {
+       position: absolute;
+       top:  650px;
+       left: 300px;
+   }
+
+   #Paymentsz
+   {
+       position: absolute;
+       top:  700px;
+       left: 400px;
+   }
+   #Loanz
+   {
+       position: absolute;
+       top: 800px;
+       left: 400px;
+   }
+   #Supportz
+   {
+       position: absolute;
+       top: 900px;
+       left: 400px;
+   }
+}
+/********/
 @media(max-width: 500px)
 {
     .qr-code

@@ -1,7 +1,8 @@
 @media(max-width: 1100px)
 {
 .qr-code
-{   display: none;
+{   
+    display: none;
     
 }
 #qr-code
@@ -11,82 +12,77 @@
 }
 #dot-line
 {
+    
     display: block;
-    position: relative;
-    top: -200px;
-    left: 150px;
+    width: 80%;
+    left:  30px;
+
+}
+.container1
+{width: 100%;}
+.container3
+{
     width: 100%;
 }
 #man1
 {
     display: block;
-    position: relative;
-    top: 0px;
-    left: 50px;
-    width:100%;
+    width: 80%;
 }
 #Rewardsx
 {
-    position: relative;
-    top: -300px;
-    left: 30px;
+    position: absolute;
+    top: 1100px;
+    left: 50px;
+
 }
 #Savingsx
 {
-    position: relative;
-    top: -400px;
-    left: -30px;  
+    position: absolute;
+    top: 1000px;
+    left: 40px;
 }
 #Investmentsx
 {
-    position: relative;
-    top: -550px;
-    left: -10px;  
+    position: absolute;
+    top: 900px;
+    left: 45px;
 }
-
 #Forexx
 {
- position: relative;
- top: -650px;
- left: 50px;
+    position: absolute;
+    top: 850px;
+    left: 130px;
 }
-
 #Analyticsx
 {
-    position: relative;
-    top: -750px;
-    left:  100px;
+    position: absolute;
+    top: 850px;
+    left: 200px; 
 }
-
-
 #cardsx
 {
-    position: relative;
-    top: -800px;
-    left: 200px;
+   position: absolute;
+   top:  900px;
+   left: 270px;
 }
+
 #Paymentsx
 {
-    position: relative;
-    top: -800px;
-    left: 250px;
+   position: absolute;
+   top:  970px;
+   left: 300px;
 }
 #Loanx
 {
-    position: relative;
-    top: -750px;
-    left: 300px;
+   position: absolute;
+   top: 1050px;
+   left: 300px;
 }
 #Supportx
-{ position: relative;
-    top: -700px;
-    left: 300px;
-}
-#Regularbanc
 {
-    display: block;
-    position: relative;
-    top: -350px;
-    left: 100px;
+   position: absolute;
+   top: 1100px;
+   left: 300px;
 }
 }
