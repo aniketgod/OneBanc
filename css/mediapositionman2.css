@@ -1,97 +1,123 @@
-@media(max-width: 1100px)
+@media only screen and (max-width: 1100px)
 {
+#onebanc
+{
+  margin-top: 0px;
+  margin-left: 30%;
+  display: block;
+  position: relative;
+  top: -600px;
+  left:100px;
+}
 #curve1
 {
+    display: block;
     position: relative;
-    top: -1200px;
-    left: 100px;
+    top: -320px;
+    left: 260px;
     transform: rotate(90deg);
 
 }
 #curve2
 {
+    display: block;
     position: relative;
-    top: -1200px;
-    left: 200px;  
+    top: -500px;
+    left: 400px;  
 
 }
 
 #curve3
 {
+    display: block;
     position: relative;
-    top: -1450px;
-    left: 100px;
+    top: -700px;
+    left: 280px;
     width: 60px;
     transform: rotate(90deg);
 
 }
+
 #curve4
 {
+    display: block;
     position: relative;
-    top: -1450px;
-    left: 0px;
+    top: -820px;
+    left: 380px;
     width: 60px;
     
 }
 
 #man2
 {
+    display:inline-block;
     position: relative;
-    left: 10px;
-    max-width:100%;
-    max-height:100%;
+    width: 100%;
+    top: 230px;
+    left: 150px;
 }
+
 #Rewardsy
 {
     position: relative;
-    top: -1400px;
-    left: 00px;
+    top: -870px;
+    left: 260px;
 }
 #Savingsy
 {
     position: relative;
-    top: -1400px;
-    left: 00px;  
+    top: -920px;
+    left: 350px;  
 }
+
 #Investmentsy
 {  position: relative;
-    top: -1200px;
-    left: 0px;
+    top: -1000px;
+    left: 200px;
 }
 #Forexy
 {
     position: relative;
-    top: -1200px;
-    left: 0px;   
+    top: -1100px;
+    left: 350px;   
 }
+
 #Analyticsy
 {
+    display: block;
     position: relative;
-    top: -1200px;
-    left: 0px;
+    top: -1120px;
+    left: 460px;
 }
 
 #cardsy
 {
+    display: block;
     position: relative;
-    top: -1200px;
-    left: 0px;
+    top: -1000px;
+    left: 350px;
 }
+
 #Paymentsy
 {
+    display: block;
     position: relative;
-    top: -1200px;
-    left: 0px;
+    top: -1100px;
+    left: 400px;
 }
+
 #Loany
 {
+    display: block;
     position: relative;
-    top: -1200px;
-    left: 00px;
+    top: -1150px;
+    left: 300px;
 }
+
 #Supporty
 {  position: relative;
-    top: -1200px;
-    left: 00px;
+    top: -1250px;
+    left: 420px;
 }
+
 }

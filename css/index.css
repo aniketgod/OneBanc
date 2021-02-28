@@ -123,8 +123,10 @@ width: 10%;
 {
 padding-left: 10%;
 margin-top: 25%;
-
-
+}
+.icon_container
+{
+    font-size: 10px;
 }
 
 

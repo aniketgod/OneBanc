@@ -1,4 +1,164 @@
-@media(max-width : 750px)
+@media(max-width : 850px)
 {
-    
+    .qr-code
+    {
+        display: none;
+    }
+    #qr-code
+    {
+        display: black;
+    }
+    .container4
+    {
+        display: inline-block;
+        background-color: 	 #668cff;
+        color: black;
+    }
+    #man3
+    {
+        display: block;
+        max-width:45%;
+        margin: 15%;
+        height: 100%;
+    }
+    #Rewardsz
+    {
+        position: absolute;
+        top: 1000px;
+        left: 30px;
+
+    }
+    #Savingsz
+    {
+        position: absolute;
+        top: 950px;
+        left: 30px;
+    }
+    #Investmentsz
+    {
+        position: absolute;
+        top: 900px;
+        left: 45px;
+    }
+    #Forexz
+    {
+        position: absolute;
+        top: 800px;
+        left: 75px;
+    }
+    #Analyticsz
+    {
+        position: absolute;
+        top: 750px;
+        left: 150px; 
+   }
+   #cardsz
+   {
+       position: absolute;
+       top:  700px;
+       left: 300px;
+   }
+
+   #Paymentsz
+   {
+       position: absolute;
+       top:  800px;
+       left: 450px;
+   }
+   #Loanz
+   {
+       position: absolute;
+       top: 900px;
+       left: 470px;
+   }
+   #Supportz
+   {
+       position: absolute;
+       top: 1000px;
+       left: 480px;
+   }
 }
+@media(max-width: 500px)
+{
+    .qr-code
+    {
+        display: none;
+    }
+    #qr-code
+    {
+        display: black;
+    }
+    .container4
+    {
+        display: inline-block;
+        background-color: 	 #668cff;
+        color: black;
+    }
+    #man3
+    {
+        display: block;
+        max-width:35%;
+        margin: 25%;
+        height: 100%;
+    }
+    #Rewardsz
+    {
+        position: absolute;
+        top: 800px;
+        left: 20px;
+
+    }
+    #Savingsz
+    {
+        position: absolute;
+        top: 750px;
+        left: 20px;
+    }
+    #Investmentsz
+    {
+        position: absolute;
+        top: 700px;
+        left: 20px;
+    }
+    #Forexz
+    {
+        position: absolute;
+        top: 670px;
+        left: 70px;
+    }
+    #Analyticsz
+    {
+        position: absolute;
+        top: 640px;
+        left: 120px; 
+   }
+   #cardsz
+   {
+       position: absolute;
+       top:  640px;
+       left: 170px;
+   }
+
+   #Paymentsz
+   {
+       position: absolute;
+       top:  660px;
+       left: 220px;
+   }
+   #Loanz
+   {
+       position: absolute;
+       top: 730px;
+       left: 250px;
+   }
+   #Supportz
+   {
+       position: absolute;
+       top: 780px;
+       left: 250px;
+   }
+}
+
+/**************/
+
+
