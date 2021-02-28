@@ -1,0 +1,93 @@
+#curve1
+{
+    position: absolute;
+    top: 150px;
+    left: 1050px;
+    transform: rotate(90deg);
+
+}
+#curve2
+{
+    position: absolute;
+    top: 150px;
+    left: 1200px;  
+
+}
+#curve3
+{
+    position: absolute;
+    top: 100px;
+    left: 1100px;
+    width: 60px;
+    transform: rotate(90deg);
+
+}
+#curve4
+{
+    position: absolute;
+    top: 100px;
+    left: 1180px;
+    width: 60px;
+    
+    
+
+}
+#man2
+{
+    position: relative;
+    left: 20px;
+    max-width:100%;
+}
+#Rewardsy
+{
+    position: absolute;
+    top: 120px;
+    left: 1050px;
+}
+#Savingsy
+{
+    position: absolute;
+    top: 100px;
+    left: 1150px;  
+}
+#Investmentsy
+{  position: absolute;
+    top: 50px;
+    left: 1000px;
+}
+#Forexy
+{
+    position: absolute;
+    top: 40px;
+    left: 1150px;   
+}
+#Analyticsy
+{
+    position: absolute;
+    top: 40px;
+    left: 1270px;
+}
+
+#cardsy
+{
+    position: absolute;
+    top: 200px;
+    left: 1170px;
+}
+#Paymentsy
+{
+    position: absolute;
+    top: 160px;
+    left: 1220px;
+}
+#Loany
+{
+    position: absolute;
+    top: 180px;
+    left: 1120px;
+}
+#Supporty
+{  position: absolute;
+    top: 100px;
+    left: 1250px;
+}

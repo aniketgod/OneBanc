@@ -1,0 +1,65 @@
+#dot-line
+{
+    position: relative;
+    top: 0px;
+    left: 40px;
+}
+#man1
+{
+    position: relative;
+    max-width:100%;
+}
+#Rewardsx
+{
+    position: absolute;
+    top: 400px;
+    left: 650px;
+}
+#Savingsx
+{
+    position: absolute;
+    top: 320px;
+    left: 600px;  
+}
+#Investmentsx
+{
+    position: absolute;
+    top: 240px;
+    left: 600px;  
+}
+#Forexx
+{
+    position: absolute;
+    top: 160px;
+    left: 600px;  
+}
+#Analyticsx
+{
+    position: absolute;
+    top: 120px;
+    left: 700px;
+}
+
+#cardsx
+{
+    position: absolute;
+    top: 140px;
+    left: 800px;
+}
+#Paymentsx
+{
+    position: absolute;
+    top: 160px;
+    left: 870px;
+}
+#Loanx
+{
+    position: absolute;
+    top: 220px;
+    left: 900px;
+}
+#Supportx
+{ position: absolute;
+    top: 300px;
+    left: 920px;
+}
